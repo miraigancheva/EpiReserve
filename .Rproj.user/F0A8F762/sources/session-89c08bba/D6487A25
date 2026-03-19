@@ -1,0 +1,27 @@
+{
+    "id": "D6487A25",
+    "path": "~/git_projects/EpiReserve/tests/test_sir.R",
+    "project_path": "tests/test_sir.R",
+    "type": "r_source",
+    "hash": "2383136259",
+    "contents": "",
+    "dirty": false,
+    "created": 1773939896161.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,2",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1773940035,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1773940035539,
+    "read_only": false,
+    "read_only_alternatives": []
+}

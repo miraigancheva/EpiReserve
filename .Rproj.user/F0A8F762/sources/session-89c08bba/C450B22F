@@ -1,0 +1,27 @@
+{
+    "id": "C450B22F",
+    "path": "~/git_projects/EpiReserve/R/sir_model.R",
+    "project_path": "R/sir_model.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1773935918445.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "50,21",
+        "scrollLine": "38"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1773935937,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1773937327694,
+    "read_only": false,
+    "read_only_alternatives": []
+}
