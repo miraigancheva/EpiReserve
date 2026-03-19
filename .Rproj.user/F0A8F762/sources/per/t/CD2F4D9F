@@ -3,9 +3,9 @@
     "path": "~/git_projects/EpiReserve/R/mortality.R",
     "project_path": "R/mortality.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2285334997",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1773937535091.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -17,11 +17,11 @@
         "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773937545,
+    "lastKnownWriteTime": 1773940243,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773937723327,
+    "last_content_update": 1773940243940,
     "read_only": false,
     "read_only_alternatives": []
 }

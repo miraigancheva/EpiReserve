@@ -3,9 +3,9 @@
     "path": "~/git_projects/EpiReserve/R/sir_model.R",
     "project_path": "R/sir_model.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "607655451",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1773935918445.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1773935937,
+    "lastKnownWriteTime": 1773940243,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1773937327694,
+    "last_content_update": 1773940243902,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,8 +1,0 @@
-"parameter","value","description"
-"a",3e-07,"infection rate"
-"b",0.1,"recovery rate"
-"R0",3,"basic reproduction number"
-"CFR",0.01,"case fatality rate"
-"N",1e+06,"total population"
-"n_policies",10000,"number of policies"
-"benefit",1e+05,"death benefit per policy"
